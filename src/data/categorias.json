@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "nome": "Alimentação",
+    "descricao": "Gastos com comida e bebidas"
+  },
+  {
+    "id": 2,
+    "nome": "Moradia",
+    "descricao": "Despesas relacionadas à casa"
+  },
+  {
+    "id": 3,
+    "nome": "Lazer",
+    "descricao": "Atividades de entretenimento"
+  },
+  {
+    "id": 4,
+    "nome": "Transporte",
+    "descricao": "Gastos com locomoção"
+  },
+  {
+    "id": 5,
+    "nome": "Saúde",
+    "descricao": "Despesas médicas e bem-estar"
+  },
+  {
+    "id": 6,
+    "nome": "Educação",
+    "descricao": "Investimentos em aprendizado"
+  },
+  {
+    "id": 7,
+    "nome": "Contas Fixas",
+    "descricao": "Pagamentos recorrentes como água e luz"
+  },
+  {
+    "id": 8,
+    "nome": "Vestuário",
+    "descricao": "Gastos com roupas e acessórios"
+  },
+  {
+    "id": 9,
+    "nome": "Tecnologia",
+    "descricao": "Compra de dispositivos e acessórios"
+  },
+  {
+    "id": 10,
+    "nome": "Viagens",
+    "descricao": "Despesas com turismo e hospedagem"
+  }
+]

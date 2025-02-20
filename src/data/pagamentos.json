@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "tipo": "Cartão de Crédito",
+    "descricao": "Pagamento com cartão de crédito"
+  },
+  {
+    "id": 2,
+    "tipo": "Cartão de Débito",
+    "descricao": "Pagamento com cartão de débito"
+  },
+  {
+    "id": 3,
+    "tipo": "Dinheiro",
+    "descricao": "Pagamento em espécie"
+  },
+  {
+    "id": 4,
+    "tipo": "PIX",
+    "descricao": "Transferência instantânea via PIX"
+  },
+  {
+    "id": 5,
+    "tipo": "Boleto",
+    "descricao": "Pagamento via boleto bancário"
+  },
+  {
+    "id": 6,
+    "tipo": "Débito Automático",
+    "descricao": "Pagamento automático vinculado à conta"
+  },
+  {
+    "id": 7,
+    "tipo": "PayPal",
+    "descricao": "Pagamento via conta PayPal"
+  },
+  {
+    "id": 8,
+    "tipo": "Criptomoeda",
+    "descricao": "Pagamento com Bitcoin ou outras criptomoedas"
+  },
+  {
+    "id": 9,
+    "tipo": "Cheque",
+    "descricao": "Pagamento com cheque bancário"
+  },
+  {
+    "id": 10,
+    "tipo": "Vale-refeição",
+    "descricao": "Cartão específico para alimentação"
+  }
+]
